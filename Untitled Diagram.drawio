@@ -1,11 +1,26 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.8.2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3114" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="4545" dy="1266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="oc4WBK3pilswLX8HJTRZ-0" value="Deployment to AWS inc&lt;div&gt;1. Docker&lt;/div&gt;&lt;div&gt;2. Git Actions&lt;/div&gt;&lt;div&gt;3. ECS&lt;/div&gt;&lt;div&gt;4. ECR&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oc4WBK3pilswLX8HJTRZ-0" value="Deployment to AWS inc&lt;div&gt;1. Docker&lt;/div&gt;&lt;div&gt;2. Git Actions&lt;/div&gt;&lt;div&gt;3. ECS&lt;/div&gt;&lt;div&gt;4. ECR&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-2210" y="100" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp0voM-NAS6thbAt5nUC-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Hp0voM-NAS6thbAt5nUC-1" target="Hp0voM-NAS6thbAt5nUC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp0voM-NAS6thbAt5nUC-1" value="start" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-2090" y="220" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp0voM-NAS6thbAt5nUC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Hp0voM-NAS6thbAt5nUC-3" target="Hp0voM-NAS6thbAt5nUC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp0voM-NAS6thbAt5nUC-3" value="Create Dockerfile" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1875" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp0voM-NAS6thbAt5nUC-5" value="Create Dockerfile" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1675" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

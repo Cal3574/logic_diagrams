@@ -1,14 +1,29 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="26.0.8">
   <diagram name="Page-1" id="gXM-GelUflYNmHCkCIh1">
-    <mxGraphModel dx="2314" dy="2809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2314" dy="4463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j9WPDJRD46hS3IfpR3rU-2" value="Requirements:&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-1590" width="120" height="30" as="geometry" />
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="-1540" width="480" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="j9WPDJRD46hS3IfpR3rU-3" value="1. A user should be able to submit claims&lt;div&gt;2. A user should be able to view a list of their on-going claims&lt;/div&gt;&lt;div&gt;3. A user should be able to view their documents with their signatures on required docs&lt;/div&gt;&lt;div&gt;3b: A user should receive an email with docs on signup&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="-1560" width="480" height="70" as="geometry" />
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="j9WPDJRD46hS3IfpR3rU-7">
+          <mxGeometry width="480" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-2" value="Requirements:&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="j9WPDJRD46hS3IfpR3rU-7">
+          <mxGeometry x="180" y="15" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-3" value="1. A user should be able to submit claims&lt;div&gt;2. A user should be able to view a list of their on-going claims&lt;/div&gt;&lt;div&gt;3. A user should be able to view their documents with their signatures on required docs&lt;/div&gt;&lt;div&gt;3b: A user should receive an email with docs on signup&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="j9WPDJRD46hS3IfpR3rU-7">
+          <mxGeometry y="45" width="480" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="j9WPDJRD46hS3IfpR3rU-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="153" y="42" as="sourcePoint" />
+            <mxPoint x="323" y="42" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Progress Claims&lt;/h1&gt;&lt;div&gt;This file includes logic breakdown of application&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1670" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

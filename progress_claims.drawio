@@ -25,6 +25,81 @@
         <mxCell id="j9WPDJRD46hS3IfpR3rU-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Progress Claims&lt;/h1&gt;&lt;div&gt;This file includes logic breakdown of application&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="-1670" width="180" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="-1540" width="480" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="j9WPDJRD46hS3IfpR3rU-9">
+          <mxGeometry width="480" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-12" value="Database: PostgreSQL&lt;div&gt;Frontend: Vue.js 3&lt;/div&gt;&lt;div&gt;Backend: Adonis.js (express server)&lt;/div&gt;&lt;div&gt;Cloud infrastructure (Azure or AWS)&lt;/div&gt;&lt;div&gt;File storage: Azure Blob / S3&lt;/div&gt;&lt;div&gt;SMTP Server: AWS/Azure&lt;/div&gt;&lt;div&gt;Version Control: Github&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="j9WPDJRD46hS3IfpR3rU-9">
+          <mxGeometry x="135" y="80.00285714285714" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-25" value="" style="group" vertex="1" connectable="0" parent="j9WPDJRD46hS3IfpR3rU-9">
+          <mxGeometry x="153" y="23.57142857142857" width="170" height="47.14285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-11" value="Tech stack:&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="j9WPDJRD46hS3IfpR3rU-25">
+          <mxGeometry x="27" width="120" height="47.14285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="j9WPDJRD46hS3IfpR3rU-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="42.42857142857143" as="sourcePoint" />
+            <mxPoint x="170" y="42.42857142857143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="-1390" width="480" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-15" value="https://docs.google.com/document/d/1GVZe44ykjg9FegNfFOoa_drVPp5GNdBNiZfO-nGEbI4/edit?tab=t.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="j9WPDJRD46hS3IfpR3rU-14">
+          <mxGeometry width="480" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-16" value="Requirements file" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="j9WPDJRD46hS3IfpR3rU-14">
+          <mxGeometry x="180" y="15" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="j9WPDJRD46hS3IfpR3rU-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="153" y="42" as="sourcePoint" />
+            <mxPoint x="323" y="42" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-1230" width="480" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="-1209.9985714285713" width="170" height="47.14285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-27" value="What i need:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="j9WPDJRD46hS3IfpR3rU-26">
+          <mxGeometry x="27" width="120" height="47.14285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="j9WPDJRD46hS3IfpR3rU-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="42.42857142857143" as="sourcePoint" />
+            <mxPoint x="170" y="42.42857142857143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-29" value="Login for a cloud service&lt;div&gt;Terms of business&lt;/div&gt;&lt;div&gt;Letter of Auth content&lt;/div&gt;&lt;div&gt;Damages Based Agreement&lt;/div&gt;&lt;div&gt;Client Care letter&lt;/div&gt;&lt;div&gt;Fee structure if we want to display to users&lt;/div&gt;&lt;div&gt;Privacy Policy&lt;/div&gt;&lt;div&gt;Terms &amp;amp; conditions&lt;/div&gt;&lt;div&gt;Do we want payment calc?&lt;/div&gt;&lt;div&gt;List of lenders&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-1149.9971428571428" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="-1230" width="480" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="j9WPDJRD46hS3IfpR3rU-30">
+          <mxGeometry width="480" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-32" value="Address lookup&lt;div&gt;Car lookup&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="j9WPDJRD46hS3IfpR3rU-30">
+          <mxGeometry x="185" y="130.00285714285712" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-33" value="" style="group" vertex="1" connectable="0" parent="j9WPDJRD46hS3IfpR3rU-30">
+          <mxGeometry x="153" y="23.57142857142857" width="170" height="47.14285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-34" value="External APIs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="j9WPDJRD46hS3IfpR3rU-33">
+          <mxGeometry x="27" width="120" height="47.14285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="j9WPDJRD46hS3IfpR3rU-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="j9WPDJRD46hS3IfpR3rU-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="42.42857142857143" as="sourcePoint" />
+            <mxPoint x="170" y="42.42857142857143" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
